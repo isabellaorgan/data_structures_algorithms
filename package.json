@@ -1,0 +1,28 @@
+{
+  "name": "data_structures_algorithms",
+  "version": "1.0.0",
+  "description": "Implement whiteboard problems from slides.",
+  "main": "arrays.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabellaorgan/data_structures_algorithms.git"
+  },
+  "keywords": [
+    "arrays",
+    "data",
+    "structures",
+    "algorithms"
+  ],
+  "author": "isabellaorgan@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isabellaorgan/data_structures_algorithms/issues"
+  },
+  "homepage": "https://github.com/isabellaorgan/data_structures_algorithms#readme"
+}
